@@ -121,6 +121,10 @@ No feature scaling applied at baseline — to be addressed in Week 6
 Test set is reserved and has not yet been evaluated
 Project Resources
 Resource	File
+
+[BaselineModellingReportWeek5.pdf](https://github.com/user-attachments/files/32101712/BaselineModellingReportWeek5.pdf)
+[Week5ProjectSummaryHealthConnect Clinic.pdf](https://github.com/user-attachments/files/32101731/Week5ProjectSummaryHealthConnect.Clinic.pdf)
+
 Appointment Dataset	HealthConnect_Appointment_Data.csv
 [HealthConnect_Appointment_Data.csv](https://github.com/user-attachments/files/32101201/HealthConnect_Appointment_Data.csv)
 
